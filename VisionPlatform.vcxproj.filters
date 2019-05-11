@@ -60,6 +60,27 @@
     <ClInclude Include="Resource.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="001View.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="002View.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="003View.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="005View.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="007View.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="006View.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="004View.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="VisionPlatform.cpp">
@@ -78,6 +99,27 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="VisionPlatformView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="001View.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="002View.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="003View.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="005View.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="007View.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="006View.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="004View.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

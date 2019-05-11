@@ -103,22 +103,36 @@
     <None Include="UserImages.bmp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="001View.h" />
+    <ClInclude Include="002View.h" />
+    <ClInclude Include="003View.h" />
+    <ClInclude Include="006View.h" />
+    <ClInclude Include="005View.h" />
+    <ClInclude Include="007View.h" />
     <ClInclude Include="ChildFrm.h" />
     <ClInclude Include="MainFrm.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
+    <ClInclude Include="004View.h" />
     <ClInclude Include="VisionPlatform.h" />
     <ClInclude Include="VisionPlatformDoc.h" />
     <ClInclude Include="VisionPlatformView.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="001View.cpp" />
+    <ClCompile Include="002View.cpp" />
+    <ClCompile Include="003View.cpp" />
+    <ClCompile Include="006View.cpp" />
+    <ClCompile Include="005View.cpp" />
+    <ClCompile Include="007View.cpp" />
     <ClCompile Include="ChildFrm.cpp" />
     <ClCompile Include="MainFrm.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
     </ClCompile>
+    <ClCompile Include="004View.cpp" />
     <ClCompile Include="VisionPlatform.cpp" />
     <ClCompile Include="VisionPlatformDoc.cpp" />
     <ClCompile Include="VisionPlatformView.cpp" />

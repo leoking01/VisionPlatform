@@ -4,6 +4,19 @@
 
 #pragma once
 
+#include "001view.h"
+#include "002view.h"
+#include "003view.h"
+#include "006view.h"
+#include "005view.h"
+#include "007view.h"
+#include "004View.h"
+
+
+//#include "VisionPlatform.h"
+
+
+
 class CChildFrame : public CMDIChildWndEx
 {
 	DECLARE_DYNCREATE(CChildFrame)
@@ -34,4 +47,9 @@ public:
 // 生成的消息映射函数
 protected:
 	DECLARE_MESSAGE_MAP()
+
+//public:
+//	CSplitterWnd    m_wndSplitter;
+//
+
 };

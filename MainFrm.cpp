@@ -7,6 +7,10 @@
 
 #include "MainFrm.h"
 
+
+
+
+
 #ifdef _DEBUG
 #define new DEBUG_NEW
 #endif
@@ -165,6 +169,10 @@ int CMainFrame::OnCreate(LPCREATESTRUCT lpCreateStruct)
 
 	return 0;
 }
+
+
+
+
 
 BOOL CMainFrame::PreCreateWindow(CREATESTRUCT& cs)
 {
